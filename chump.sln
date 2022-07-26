@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chump", "chump.csproj", "{C646E24C-127E-44C0-B045-E943B390CA96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C646E24C-127E-44C0-B045-E943B390CA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C646E24C-127E-44C0-B045-E943B390CA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C646E24C-127E-44C0-B045-E943B390CA96}.Debug|x64.ActiveCfg = Debug|x64
+		{C646E24C-127E-44C0-B045-E943B390CA96}.Debug|x64.Build.0 = Debug|x64
+		{C646E24C-127E-44C0-B045-E943B390CA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C646E24C-127E-44C0-B045-E943B390CA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C646E24C-127E-44C0-B045-E943B390CA96}.Release|x64.ActiveCfg = Release|x64
+		{C646E24C-127E-44C0-B045-E943B390CA96}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B51C715-1352-4D63-B9CF-F7941F990493}
+	EndGlobalSection
+EndGlobal
